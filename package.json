@@ -9,6 +9,7 @@
     "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)"
   ],
   "dependencies": {
+    "diff": "Swatinem/diff"
   },
   "devDependencies": {
     "component": "~0.19.8",
