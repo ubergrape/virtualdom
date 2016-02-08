@@ -1,6 +1,6 @@
 {
   "name": "virtualdom",
-  "repo": "Swatinem/virtualdom",
+  "repo": "ubergrape/virtualdom",
   "version": "0.0.1",
   "description": "tools to work with a virtual dom",
   "keywords": [],
@@ -15,7 +15,7 @@
     "lib/todom.js"
   ],
   "dependencies": {
-    "Swatinem/diff": "*"
+    "ubergrape/diff": "*"
   },
   "development": {
     "component/domify": "*",

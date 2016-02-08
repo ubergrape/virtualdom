@@ -27,7 +27,7 @@ And of course, I don’t want to merely *use* a library. I want to
 
 ## Installation
 
-    $ component install Swatinem/virtualdom
+    $ component install ubergrape/virtualdom
 
 ## Usage
 

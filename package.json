@@ -9,11 +9,11 @@
     "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)"
   ],
   "dependencies": {
-    "diff": "Swatinem/diff"
+    "diff": "ubergrape/diff"
   },
   "devDependencies": {
     "component": "~0.19.8",
-    "component-test": "Swatinem/component-test",
+    "component-test": "ubergrape/component-test",
     "component-istanbul": "*",
     "istanbul": "*",
     "coveralls": "*",
@@ -22,6 +22,6 @@
   "scripts": {
     "test": "make test-coveralls"
   },
-  "repository": "git://github.com/Swatinem/virtualdom.git",
   "license": "LGPLv3"
+  "repository": "git://github.com/ubergrape/virtualdom.git",
 }
